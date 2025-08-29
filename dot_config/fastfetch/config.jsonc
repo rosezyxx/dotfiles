@@ -27,7 +27,7 @@
   ],
   "logo": {
     "type": "auto",
-    "source": "/home/rose/fastfetch.png",
+    "source": "~/.config/fastfetch/fastfetch.png",
     "height": 24
   },
   "display": {
